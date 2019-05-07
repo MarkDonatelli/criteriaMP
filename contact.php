@@ -36,7 +36,7 @@
     $email_body =  "Number of Employees: $number.\n".
     $email_body =  "Comments: $comments.\n".
                   
-    $to ="sappolloni@masspay.net, kcampbell@masspay.net, jblaeser@masspay.net";
+    $to ="sappolloni@masspay.net, kcampbell@masspay.net, jmccarthy@masspay.net, jblaeser@masspay.net";
     $headers = "From: $email_from \r\n";
     $headers = "Reply-To: $workemail \r\n";
   
